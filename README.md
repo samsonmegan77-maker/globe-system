@@ -2,8 +2,7 @@
 
 **A complete multi-layer domain framework for understanding everything on Earth.**
 
-Created collaboratively. Released into the public domain.  
-No copyright. No trademarks. No trade secrets. Free for anyone to use, copy, modify, or build upon.
+Created collaboratively.
 
 ---
 
@@ -117,21 +116,6 @@ Everything is interconnected. A change in one domain eventually affects others.
 - Diagnosing strengths, weaknesses, and gaps
 - Supporting research, strategy, education, and systems thinking
 - Organising knowledge about the world
-
----
-
-## License
-
-This work is released into the **public domain**.
-
-You are free to:
-- Use it
-- Copy it
-- Modify it
-- Share it
-- Build commercial or non-commercial projects with it
-
-No attribution required (though appreciated).
 
 ---
 
